@@ -1,0 +1,11 @@
+.DS_Store
+*.egg-info
+__pycache__
+/**/build
+dist
+/.vscode
+/**/*.o
+/**/*.so
+images/
+pybind11/
+libjxl-tiny/
