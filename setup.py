@@ -48,9 +48,9 @@ class CMakeBuild(build_ext):
 setup(
     name="jxlbinding",
     version="0.0.1",
-    author="Dean Moldovan",
-    author_email="dean0x7d@gmail.com",
-    description="A test project using pybind11 and CMake",
+    author="Casey Peat",
+    author_email="caseypeat@protonmail.com",
+    description="A python binding for jxl encoding",
     long_description="",
     ext_modules=[CMakeExtension("jxlbinding")],
     cmdclass={"build_ext": CMakeBuild},
