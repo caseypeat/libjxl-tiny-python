@@ -5,6 +5,7 @@ Python binding of libjxl-tiny using pybind11
 ## Setup
 
 `conda create -n jxl python=3.9`
+
 `conda activate jxl`
 
 `pip install opencv-python`
