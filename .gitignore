@@ -7,5 +7,3 @@ dist
 /**/*.o
 /**/*.so
 images/
-pybind11/
-libjxl-tiny/
